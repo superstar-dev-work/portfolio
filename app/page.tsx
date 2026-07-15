@@ -132,7 +132,7 @@ export default function Home() {
             <a className="button primary" href="mailto:ben.dean0518@gmail.com">
               Email me
             </a>
-            <a className="button secondary" href="/Benjamin_Dean_Resume.pdf">
+            <a className="button secondary" href="./Benjamin_Dean_Resume.pdf">
               Resume
             </a>
           </div>
